@@ -1,4 +1,4 @@
 
 [See my project](https://arturvolokhin.github.io/tic-tac-toe)
 
-![screenshot of sample](https://github.com/arturvolokhin/scrinshots/blob/main/tic-tac-toe.png)
+<img src="https://github.com/arturvolokhin/images/blob/main/scrinshots/tic-tac-toe.png">
